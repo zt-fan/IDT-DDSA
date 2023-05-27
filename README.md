@@ -18,11 +18,13 @@ demonstrate the effectiveness of our proposed method.*
 <hr />
 
 ## Network Architecture
-![arch](https://github.com/zt-fan/IMAGE-DERAINING-TRANSFORMER-USING-DYNAMIC-DUAL-SELF-ATTENTION/assets/90734659/1c494d4a-1055-4eec-a26d-f04aa2919bec)
+![arch](https://github.com/zt-fan/IDT-DDSA/assets/90734659/a7a9006d-e5ae-4925-8923-290dafde8413)
+
 
 ## Installation
 See [INSTALL.md](INSTALL.md) for the installation of dependencies required to run Restormer.
 
 ## Results
-![table](https://github.com/zt-fan/IMAGE-DERAINING-TRANSFORMER-USING-DYNAMIC-DUAL-SELF-ATTENTION/assets/90734659/0b619755-306e-4c1d-be8b-67885806246b)
-![pic](https://github.com/zt-fan/IMAGE-DERAINING-TRANSFORMER-USING-DYNAMIC-DUAL-SELF-ATTENTION/assets/90734659/9dd7f71b-3e9b-4c56-83b4-5a657ada2c1f)
+![table](https://github.com/zt-fan/IDT-DDSA/assets/90734659/0fd00425-ef18-4c58-82a9-6163deda86b5)
+
+![pic](https://github.com/zt-fan/IDT-DDSA/assets/90734659/278f448b-49b1-46aa-b0d9-dc51127ced83)
